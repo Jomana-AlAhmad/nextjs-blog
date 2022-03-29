@@ -1,4 +1,4 @@
-import Layout from '../../components/layout'
+import Layout from '../../components/Layout'
 import { getAllPostIds } from '../../lib/posts'
 import { getPostData } from '../../lib/posts'
 import Head from 'next/head'
